@@ -1,3 +1,5 @@
+
+forge install smartcontractkit/chainlink-brownie-contracts@1.3.0 --no-commit
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
